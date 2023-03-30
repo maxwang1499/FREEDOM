@@ -1,0 +1,42 @@
+html, body, #container {
+    background-color: #ccc;
+    font-family: sans-serif;
+    width: 100%;
+    display: flex;
+  }
+  
+  .SELFIE {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+  }
+  
+  .SELFIE:hover {
+    cursor: pointer;
+    background-color: #989ea6;
+  }
+  
+  .USA {
+    font-size: 12px;
+    font-weight: 700;
+  }
+  
+  .GOD-GIVEN-RIGHTS {
+    
+  }
+  
+  .column {
+    margin: 0;
+    flex: 1 0 50%;
+    box-sizing: border-box;
+  }
+  
+  #right {
+    padding: 8px;
+  }
+  
+  #right img {
+    width: 100%;
+  }
+  
